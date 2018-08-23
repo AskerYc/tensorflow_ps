@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:/yc_projects/dcgan_conv/discriminator_weight"
+all_model_checkpoint_paths: "D:/yc_projects/dcgan_conv/discriminator_weight"
