@@ -9,6 +9,7 @@ BETA_1 = 0.5
 
 # jug
 
+
 def discriminator_model():
     model = tf.keras.models.Sequential()
 

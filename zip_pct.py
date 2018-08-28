@@ -25,4 +25,5 @@ def compressImage(srcPath, dstPath):
 
 
 if __name__ == '__main__':
-    compressImage('D:/yc_projects/data/images/All_Images', 'D:/yc_projects/data/images/done_dcgan')
+    # compressImage('D:/yc_projects/data/images/All_Images', 'D:/yc_projects/data/images/done_dcgan')
+    compressImage('D:\yc_projects\\face_dct\\face_dect', 'D:\yc_projects\\face_dct\\face_dect64x64')
